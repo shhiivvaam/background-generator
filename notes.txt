@@ -1,0 +1,11 @@
+Java Script Features :
+
+    array_name.at(index)        :  this will return the element present at the following index in the array
+    'string'.padStart(number)   :  this will add 10 extra spaces at the start of the string provided
+    'string'.padEnd(number)     :  this will add 10 extra spaces at the end of the string provided
+    array_name.flat()           :  this will falt the array lesser dimensions, i.e, by defualt the value inside the bracket is one(1) but if we increasse the value inside the flat then it will reduce that much level dimension to the array
+                                   it also cleans the array by removing the empty data from the array
+    'string_name'.trimStart()   :  it will trim the extraspace from the string in the start   // prefer to use it will console.log()  } print command
+    'string_name'.trimEnd()     :  this will remove extraspaces from the end of the given string    // prefer to use it with console.log() } print command
+
+    Object.fromEntries(list_name)  :  this will return all the object created inside the list
